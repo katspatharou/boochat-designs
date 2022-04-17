@@ -1,0 +1,97 @@
+***Spacing
+
+4px = 0.25rem
+8px = 0.5rem
+12px = 0.75rem
+16px = 1rem
+24px = 1.5rem
+32px = 2rem 
+40px = 2.5rem
+48px = 3rem
+56px = 3.5rem
+64px = 4rem
+80px = 5rem
+96px = 6rem
+128px = 8rem
+192px = 12rem
+
+
+***Font Sizes
+
+12px = 0.75rem
+14px = 0.875rem
+16px = 1rem
+18px = 1.125rem
+20px = 1.25rem
+24px = 1.5rem
+30px = 1.875rem
+36px = 2.25rem
+48px = 3rem
+60px = 3.75rem
+72px = 4.5rem
+
+main-container
+1792x1080
+wo padding
+1680x920
+
+room-list-window
+320x824
+19.05% x 89.56%
+
+room-window
+614x887
+36.55% x 96.42%
+
+meetup-window
+614x887
+36.55% x 96.42%
+
+rlw-2rem-rw 
+rw-3.25rem-mu
+
+
+First span 
+
+p:first-child	
+Selects every <p> element that is the first child of its parent
+
+
+--fs-xl: 1.5rem;
+--fs-l: 1.25rem;
+--fs-m: 1.125rem;
+--fs-m: 1.125rem;
+--fs-s: 1rem;
+--fs-xs: 0.875rem;
+
+
+
+23:48
+This is supposed to represent a message to my imaginary friend, Arlo.
+
+23:49
+One line messages are cute.
+
+23:54
+Ikr?
+
+23:57
+What hapens if I have a lot to say though, like what I did the other day or how that cute person texted me?
+
+Tuesday 25/04
+
+14:01
+Ah, it wraps up nicely
+
+13:59
+Seems so
+
+14:02
+Yeap
+What if I break...
+up my sentences?
+Or if I forget to answer and I text you later?
+
+14:33
+Type your message and press [Enter]
+
